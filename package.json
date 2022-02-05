@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ibrahim777764/learning-with-diffrent-motivation/issues"
   },
-  "homepage": "https://github.com/ibrahim777764/learning-with-diffrent-motivation#readme"
+  "homepage": "https://github.com/ibrahim777764/learning-with-diffrent-motivation#readme",
+  "devDependencies": {
+    "hint": "^6.1.9"
+  }
 }
